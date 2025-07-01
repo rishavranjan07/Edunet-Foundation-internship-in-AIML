@@ -12,13 +12,13 @@ Built a pipeline using MultiOutputRegressor with RandomForestRegressor
 Evaluated the model using appropriate regression metrics
 
 ## Technologies Used
-
-Python 3.12
+<ul>
+<li>Python 3.12</li>
 Pandas, NumPy – Data handling
 Scikit-learn – Machine learning model and evaluation
 Matplotlib, Seaborn – Data visualization
 Jupyter Notebook – Interactive experimentation
-
+</ul>
 ## Predicted Water Quality Parameters
 The model predicts multiple water quality parameters such as:
 
